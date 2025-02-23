@@ -22,7 +22,6 @@ Completed PR (1) - Simon Game App <br>
 
 Completed PR's (1) - Website : Homepage Overall Enhancement with 7 Features
 
-LinkedIn Profile: https://www.linkedin.com/in/gauravsingh1281
 
 Completed PR's -
 Completed PR's (11) - Website : Logo, Favicon Addup and Enhanced Footer | Age Calculator | Currency Calculator | <br>
@@ -30,7 +29,7 @@ Calorie Intake Calculator | Gitspot User | Password Generator | GCD Calculator |
 Factorial Calculator | Percentage Calculator | Time Calculator <br>
 
 
-9. Shubham Patel | spbyname | | spbyname  <br>
+
 
 Completed PR's (1) - Cooking Website Frontend Layout <br>
 
